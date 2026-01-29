@@ -12,3 +12,5 @@ print("Alamat        :", alamat, "\n                Kota ", kota)
 print("Hobi          :", hobi)
 
 print("=======================================")
+
+print(nama)
